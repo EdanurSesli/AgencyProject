@@ -11,5 +11,6 @@ namespace AcunMedyaAkademiAgency.Entities
         public String Title { get; set; }
         public String Description { get; set; }
         public String ImageUrl { get; set; }
+        public string aboutDate { get; set; }
     }
 }
